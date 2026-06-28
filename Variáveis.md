@@ -185,7 +185,12 @@ Livros Altamente Recomendados:
 
 Programming: Principles and Practice Using C++ (Bjarne Stroustrup): Escrito pelo criador do C++, foca em programação fundamental e resolução de problemas, sendo voltado para o iniciante absoluto.
 https://turan-edu.uz/media/books/2024/05/29/d9116f36-40ed-4147-86c6-47657eca6c64.pdf
+
 C++ Primer (Stanley B. Lippman, Josée Lajoie, Barbara E. Moo): Um guia abrangente e didático que aborda desde a sintaxe central até a biblioteca padrão. Ideal para transitar do nível iniciante para o intermediário.
 https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf
+
 C Completo e Total (Herbert Schildt): Uma referência clássica e tradicional em língua portuguesa para quem deseja dominar as nuances e os fundamentos da linguagem C.
 https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf
+
+Linguagem C++- Notas de Aula
+https://www.inf.ufpr.br/ci208/NotasAula.pdf
