@@ -1,4 +1,5 @@
 #include <stdio.h>
+*.c linguist-language=C
 
 int main() {
     // Entrada
